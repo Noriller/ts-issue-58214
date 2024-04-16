@@ -1,4 +1,5 @@
 type RouteManager = typeof import('@adonisjs/framework/src/Route/Manager');
+type RouteManager2 = typeof import('@adonisjs/framework/src/Route/Manager.js');
 
 declare namespace Adonis {
   interface Route extends Omit<RouteManager, 'group'> {
