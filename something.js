@@ -6,6 +6,6 @@
 */
 
 
-// as long nothing else is exported from here...
+// as long nothing else is imported/exported from here...
 // types defined here works similar to a d.ts file
 // module.exports = {}
