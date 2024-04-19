@@ -7,6 +7,6 @@
     "@adonisjs/framework": "^5.0.9"
   },
   "devDependencies": {
-    "typescript": "^5.5.0-dev.20240416"
+    "typescript": "^5.5.0-dev.20240419"
   }
 }
